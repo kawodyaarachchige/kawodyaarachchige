@@ -1,6 +1,6 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/3890250/206901868-c0e78cc3-d10f-4404-a2d7-f7edb923e041.png)]
-<h1 align="center">Hello fellow coders!👋, I'm Tharushi Kawodya,your friendly neighborhood (wait, wrong hero) Java enthusiast and a HUGE fan of the Caped Crusader, Batman! 🦇 When I'm not fighting bugs, you can find me diving into the Java Batcave, crafting elegant solutions for a better coding universe.</h1>
+<h1 align="center">Hello fellow coders!👋, I'm Tharushi ,your friendly neighborhood (wait, wrong hero) Java enthusiast and a HUGE fan of the Caped Crusader, Batman! 🦇 When I'm not fighting bugs, you can find me diving into the Java Batcave, crafting elegant solutions for a better coding universe.</h1>
 <h3 align="center">Software Engineering Student</h3>
 
 - 🌱 I’m currently learning **Java and JavaScript**
