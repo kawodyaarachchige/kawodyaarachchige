@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=0e75b6&style=flat" alt="kawodyaarachchige" /> </p>
 
-- 🌱 I’m currently learning **Java and JavaScript**
+- 🌱 I’m currently learning **MachineLearning **
 
 - 📝 I regularly write articles on [http://kawodya.wordpress.com](http://kawodya.wordpress.com)
 
