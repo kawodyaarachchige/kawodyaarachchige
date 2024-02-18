@@ -6,6 +6,7 @@
 
 
 I'm a software engineering student who's passionate about building innovative solutions and exploring the realms of technology. Currently, I'm delving into the worlds of JavaScript and Machine Learning, honing my skills to create impactful projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=0e75b6&style=flat" alt="kawodyaarachchige" /> </p>
 
 <h3 align="center">Software Engineering Student</h3>
 
