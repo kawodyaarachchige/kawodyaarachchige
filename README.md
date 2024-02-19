@@ -1,6 +1,6 @@
 
 # 
-<h1 align="center"> 🐱 Hello fellow coders! 🤘🏻 I'm ThaRu Arachchige 🦇 </h1>
+<h1 align="center"> ✨ Hello fellow coders! 🤘🏻 I'm ThaRu Arachchige ☘️ </h1>
 
 <img align="center" alt="Coding" width="1000" src="https://64.media.tumblr.com/5bbe0b7a56faf208a8b7c07db701837c/tumblr_nmlu99EYRI1tiwiyxo1_540.gifv">
 
@@ -8,7 +8,7 @@
 I'm a software engineering student who's passionate about building innovative solutions and exploring the realms of technology. Currently, I'm delving into the worlds of JavaScript and Machine Learning, honing my skills to create impactful projects.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=0e75b6&style=flat" alt="kawodyaarachchige" /> </p>
 
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center"> 🌚 Learning and growing in the world of coding 🌝</h3>
 
 
 ## 🚀 What I'm up to:
