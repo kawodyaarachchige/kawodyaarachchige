@@ -42,6 +42,8 @@ I'm a software engineering student who's passionate about building innovative so
 
 This quote by Steve Jobs resonates deeply with me as I navigate through the world of software engineering and technology.
 
+<p align="center"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/75/d6/ff75d6ba4285982c35529afc176501dc.gif"></p>
+
 ## 📫 Let's Connect:
 
 I'm always open to collaborations, discussions, or just chatting about tech, problem-solving, or our favorite superheroes! Feel free to reach out to me:
