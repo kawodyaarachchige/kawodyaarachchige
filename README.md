@@ -13,18 +13,26 @@ I'm a software engineering student who's passionate about building innovative so
 
 ## 🚀 What I'm up to:
 
-🌱 I’m currently learning JavaScript to expand my web development skills and dive deeper into the world of front-end and back-end development.
+- I’m currently learning JavaScript to expand my web development skills and dive deeper into the world of front-end and back-end development.
 
-🤖 My journey into Machine Learning is an exciting one! I'm exploring algorithms, techniques, and applications to solve real-world problems and unlock insights from data.
+- My journey into Machine Learning is an exciting one! I'm exploring algorithms, techniques, and applications to solve real-world problems and unlock insights from data.
 
-💡 Problem-solving is my forte. I love tackling challenges head-on, breaking down complex problems, and finding elegant solutions.
+- Problem-solving is my forte. I love tackling challenges head-on, breaking down complex problems, and finding elegant solutions.
 
 ## 💻 Skills:
+<div align="left">
 
-- **Programming Languages:** JavaScript, Python, Java,C
-- **Web Development:** HTML, CSS
-- **Database:** MySQL
-- **Problem Solving:** Data Structures, Algorithms
+| Title           | Icon                                                                                                      |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
+| IDE             | <img src="https://skillicons.dev/icons?i=idea"/>                                                          |
+| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps,javafx"/>                                         |
+| App Development | <img src="https://skillicons.dev/icons?i=java,py,c"/>                                                     |
+| Front End       | <img src="https://skillicons.dev/icons?i=html,css,js"/>                                                   |
+| Back End        | <img src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql"/>                                    |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow,ai"/>             |
+
+</div>
+
 
 ## 🦇 Fun Fact:
 
@@ -38,47 +46,23 @@ This quote by Steve Jobs resonates deeply with me as I navigate through the worl
 
 I'm always open to collaborations, discussions, or just chatting about tech, problem-solving, or our favorite superheroes! Feel free to reach out to me:
 
-- LinkedIn (www.linkedin.com/in/
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/kawodya-arachchige-781519282/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
+    </a>
+    <a href="https://www.hackerrank.com/kawodya_wa">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="width: 50px; height: 50px" 
+     alt="HackerRank"/>
+   </a>
+</p>
+  
 Looking forward to connecting with you! 🚀
 
 ![Coding](https://64.media.tumblr.com/197110a10042ab07954e00a50aa070ae/tumblr_pvsao76xg51wnhmglo4_540.gif)
 
-###
-
-<h4 align="left">Tools</h4>
 
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-###
-
-<h4 align="left">Languages</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40"alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-</div>
 
 
 
