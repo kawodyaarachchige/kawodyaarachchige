@@ -1,6 +1,6 @@
-
-# 
-<h1 align="center"> ✨ Hello fellow coders! 🤘🏻 I'm ThaRu Arachchige ☘️ </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+fellow+🫶+coders;I'm+ThaRu✨;+Full+Stack+Developer+💻;from+Ceylon+💙;" />
+</h1>
 
 <img align="center" alt="Coding" width="1000" src="https://64.media.tumblr.com/5bbe0b7a56faf208a8b7c07db701837c/tumblr_nmlu99EYRI1tiwiyxo1_540.gifv">
 
