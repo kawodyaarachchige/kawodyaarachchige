@@ -19,7 +19,7 @@ I'm a software engineering student who's passionate about building innovative so
 - My journey into Machine Learning is an exciting one! I'm exploring algorithms, techniques, and applications to solve real-world problems and unlock insights from data.
 
 - Problem-solving is my forte. I love tackling challenges head-on, breaking down complex problems, and finding elegant solutions.
-- My Portfolio Website : https://kawodyaarachchige.github.io/my_portfolio/
+
 
 ## 💻 Skills:
 <div align="left">
