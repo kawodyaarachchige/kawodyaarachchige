@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+fellow+🫶+coders;I'm+ThaRu✨;+Full+Stack+Developer+💻;from+Ceylon+💙;" />
 </h1>
 
-<img align="center" alt="Coding" width="1000" src="https://64.media.tumblr.com/5bbe0b7a56faf208a8b7c07db701837c/tumblr_nmlu99EYRI1tiwiyxo1_540.gifv">
+<img align="center" alt="Coding" width="1000" src="https://imgur.com/Zq5FIwq.png">
 
 
 I'm a software engineering student who's passionate about building innovative solutions and exploring the realms of technology. Currently, I'm delving into the worlds of JavaScript and Machine Learning, honing my skills to create impactful projects.
