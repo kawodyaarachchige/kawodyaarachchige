@@ -14,8 +14,6 @@
     <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=0e75b6&style=flat" alt="kawodyaarachchige" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/kawodyaarachchige.svg)](https://user-badge.committers.top/sri_lanka/kawodyaarachchige)
-
 <h3 align="center">🌚 Learning and growing in the world of coding 🌝</h3>
 
 ## 🚀 Current Focus:
