@@ -25,14 +25,16 @@
 
 | **Title**       | **Icon**                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
-| IDE             | <img src="https://skillicons.dev/icons?i=idea"/>                                                          |
-| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                         |
-| App Development | <img src="https://skillicons.dev/icons?i=java,py,c,swift"/>                                                     |
-| Front End       | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,codepen,jquery"/>                                                   |
-| Back End        | <img src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql,postman"/>                                    |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow,ai"/>             |
+| IDE             | <img src="https://skillicons.dev/icons?i=idea,rider"/>                                                     |
+| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                      |
+| App Development  | <img src="https://skillicons.dev/icons?i=java,py,c,swift,net,arduino"/>                                |
+| Front End       | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwindcss,codepen,jquery"/>|
+| Back End        | <img src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql,postman,spring,flask,tomcat"/>        |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow,ai,firebase"/>   |
 
 </div>
+
+
 
 ## 🦇 Fun Fact:
 I’m a huge fan of Batman! 🦇 His resilience, intelligence, and commitment to justice inspire me in my own journey.
