@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    I'm a software engineering student passionate about creating innovative solutions and exploring technology. Currently, I'm diving into JavaScript and Machine Learning to enhance my skills and develop impactful projects.
+    I'm a software engineering student passionate about creating innovative solutions and exploring technology.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Open%20to%20Collaborations-green?style=for-the-badge&logo=Handshake&animation=shake" alt="Open to Collaborations"/>
