@@ -15,14 +15,13 @@
   <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=for-the-badge&logo=Book&animation=flash" alt="Always Learning"/>
 </p>
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=0e75b6&style=flat" alt="kawodyaarachchige" />
 </p>
 
-## 💻 My Tool Box:
-<div align="left">
+<div align="center">
 
-| **Title**       | **Icon**                                                                                                      |
+| **My**       | **ToolBox**                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
 | IDE             | <img src="https://skillicons.dev/icons?i=idea,rider"/>                                                     |
 | UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                      |
@@ -45,7 +44,7 @@ I’m a huge fan of Batman! 🦇 His resilience, intelligence, and commitment to
 "The only way to do great work is to love what you do." - Steve Jobs  
 This quote resonates deeply with me as I navigate the world of software engineering and technology.
 
-<p align="center">
+<p align="left">
     <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/75/d6/ff75d6ba4285982c35529afc176501dc.gif">
 </p>
 
