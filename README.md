@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+fellow+🫶+coders;I'm+ThaRu✨;+Back+End+Developer+💻;from+Ceylon+💖;&color=FF69B4" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+fellow+🫶+coders;I'm+ThaRu✨;+Full+Stack+Developer+💻;from+Ceylon+💖;&color=FF69B4" />
 </h1>
 
 <p align="center">
@@ -9,18 +9,17 @@
 <p align="center">
     I'm a software engineering student passionate about creating innovative solutions and exploring technology. Currently, I'm diving into JavaScript and Machine Learning to enhance my skills and develop impactful projects.
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Open%20to%20Collaborations-green?style=for-the-badge&logo=Handshake&animation=shake" alt="Open to Collaborations"/>
+  <img src="https://img.shields.io/badge/-Fanatic%20Designer-ff69b4?style=for-the-badge&logo=Code&animation=slide" alt="Frontend Fanatic"/>
+  <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=for-the-badge&logo=Book&animation=flash" alt="Always Learning"/>
+</p>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=0e75b6&style=flat" alt="kawodyaarachchige" />
 </p>
 
-<h3 align="center">🌚 Learning and growing in the world of coding 🌝</h3>
-
-## 🚀 Current Focus:
-- **Machine Learning**: Delving into algorithms and techniques to solve real-world problems and gain insights from data.
-- **Problem-Solving**: Embracing challenges and breaking down complex problems to find effective solutions.
-
-## 💻 Skills:
+## 💻 My Tool Box:
 <div align="left">
 
 | **Title**       | **Icon**                                                                                                      |
@@ -34,7 +33,10 @@
 
 </div>
 
-
+## 💻 Operating Systems
+![MacOS](https://img.shields.io/badge/MacOS-%23000000.svg?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
 
 ## 🦇 Fun Fact:
 I’m a huge fan of Batman! 🦇 His resilience, intelligence, and commitment to justice inspire me in my own journey.
