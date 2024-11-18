@@ -63,7 +63,7 @@ I’m always open to collaborations, discussions, or chatting about tech, proble
 Looking forward to connecting with you! 🚀
 
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SameeraMS&show_icons=true&locale=en&layout=compact" alt="SameeraMS" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawodyaarachchige&show_icons=true&locale=en&layout=compact" alt="kawodyaarachchige" />
 </p>
 
 ![Coding](https://64.media.tumblr.com/197110a10042ab07954e00a50aa070ae/tumblr_pvsao76xg51wnhmglo4_540.gif)
