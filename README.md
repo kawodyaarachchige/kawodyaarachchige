@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=0e75b6&style=flat" alt="kawodyaarachchige" />
+    <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=FF69B4&style=flat" alt="kawodyaarachchige" />
 </p>
 
 <div align="center">
