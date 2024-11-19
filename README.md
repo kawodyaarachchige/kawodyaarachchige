@@ -50,11 +50,13 @@ This quote resonates deeply with me as I navigate the world of software engineer
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/kawodyaarachchige">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawodyaarachchige&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawodyaarachchige&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/kawodyaarachchige">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawodyaarachchige&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawodyaarachchige&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
+  </a>
 </p>
+
+
 
 ## 📫 Let's Connect:
 I’m always open to collaborations, discussions, or chatting about tech, problem-solving, or superheroes. Feel free to reach out:
