@@ -48,6 +48,14 @@ This quote resonates deeply with me as I navigate the world of software engineer
     <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/75/d6/ff75d6ba4285982c35529afc176501dc.gif">
 </p>
 
+## ⚙️ GitHub Analytics
+<p align="center">
+<a href="https://github.com/kawodyaarachchige">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawodyaarachchige&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawodyaarachchige&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
 ## 📫 Let's Connect:
 I’m always open to collaborations, discussions, or chatting about tech, problem-solving, or superheroes. Feel free to reach out:
 
@@ -62,9 +70,8 @@ I’m always open to collaborations, discussions, or chatting about tech, proble
 
 Looking forward to connecting with you! 🚀
 
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawodyaarachchige&show_icons=true&locale=en&layout=compact" alt="kawodyaarachchige" />
+<p align="center">
+  <img src="https://64.media.tumblr.com/197110a10042ab07954e00a50aa070ae/tumblr_pvsao76xg51wnhmglo4_540.gif" alt="Coding">
 </p>
 
-![Coding](https://64.media.tumblr.com/197110a10042ab07954e00a50aa070ae/tumblr_pvsao76xg51wnhmglo4_540.gif)
 
