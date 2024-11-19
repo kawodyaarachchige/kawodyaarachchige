@@ -32,6 +32,14 @@
 
 </div>
 
+## ⚙️ GitHub Analytics
+<p align="center">
+  <a href="https://github.com/kawodyaarachchige">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawodyaarachchige&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawodyaarachchige&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
+  </a>
+</p>
+
 ## 💻 Operating Systems
 ![MacOS](https://img.shields.io/badge/MacOS-%23000000.svg?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
@@ -43,20 +51,6 @@ I’m a huge fan of Batman! 🦇 His resilience, intelligence, and commitment to
 ## 👩🏻‍💻 Favorite Quote:
 "The only way to do great work is to love what you do." - Steve Jobs  
 This quote resonates deeply with me as I navigate the world of software engineering and technology.
-
-<p align="left">
-    <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/75/d6/ff75d6ba4285982c35529afc176501dc.gif">
-</p>
-
-## ⚙️ GitHub Analytics
-<p align="center">
-  <a href="https://github.com/kawodyaarachchige">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawodyaarachchige&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawodyaarachchige&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
-  </a>
-</p>
-
-
 
 ## 📫 Let's Connect:
 I’m always open to collaborations, discussions, or chatting about tech, problem-solving, or superheroes. Feel free to reach out:
