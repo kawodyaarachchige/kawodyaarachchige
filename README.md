@@ -16,12 +16,6 @@
 </p>
 
 <p align="center">
-    <a href="https://user-badge.committers.top/sri_lanka/kawodyaarachchige">
-        <img src="https://user-badge.committers.top/sri_lanka/kawodyaarachchige.svg" alt="committers.top badge" />
-    </a>
-</p>
-
-<p align="center">
     <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=FF69B4&style=flat" alt="kawodyaarachchige" />
 </p>
 
