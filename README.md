@@ -9,6 +9,26 @@
 <p align="center">
     I'm a software engineering student passionate about creating innovative solutions and exploring technology.
 </p>
+
+## 🍎 My Profile in Swift
+
+```swift
+// Define personal traits as variables
+let name = "Kawodya Arachchige"
+let role = "Software Developer & Designer"
+let skills = ["Problem Solving", "UI/UX Design", "Creative Thinking", "Coding"]
+let strengths = ["Attention to Detail", "Innovative Ideas", "Collaborative Team Player"]
+
+// Function to introduce myself
+func introduce() {
+    print("Hi, I'm \(name), a \(role).")
+    print("My core skills include: \(skills.joined(separator: ", ")).")
+    print("My strengths: \(strengths.joined(separator: ", ")).")
+}
+
+// Output my introduction
+introduce()
+```
 <p align="center">
   <img src="https://img.shields.io/badge/-Open%20to%20Collaborations-green?style=for-the-badge&logo=Handshake&animation=shake" alt="Open to Collaborations"/>
   <img src="https://img.shields.io/badge/-Fanatic%20Designer-ff69b4?style=for-the-badge&logo=Code&animation=slide" alt="Frontend Fanatic"/>
