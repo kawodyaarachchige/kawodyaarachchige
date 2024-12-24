@@ -24,7 +24,7 @@
 
 | **My**       | **ToolBox**                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
-| IDE             | <img src="https://skillicons.dev/icons?i=idea,rider,vscode"/>                                                     |
+| IDE             | <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode"/>                                                     |
 | UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                      |
 | App Development  | <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>                                |
 | Front End       | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwindcss,codepen,jquery"/>|
