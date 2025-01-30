@@ -39,17 +39,20 @@ introduce()
     <img src="https://komarev.com/ghpvc/?username=kawodyaarachchige&label=Profile%20views&color=FF69B4&style=flat" alt="kawodyaarachchige" />
 </p>
 
-
 <div align="center">
 
-| **My**       | **ToolBox**                                                                                                      |
-|-----------------|-----------------------------------------------------------------------------------------------------------|
-| IDE             | <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode"/>                                                     |
-| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                      |
-| App Development  | <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>                                |
-| Front End       | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwindcss,codepen,jquery"/>|
-| Back End        | <img src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql,postman,spring,flask,tomcat"/>        |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow,ai,firebase"/>   |
+## 🤖 ToolBox
+
+ <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/> 
+ <img src="https://skillicons.dev/icons?i=figma,ps"/> 
+ <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>  
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery"/>
+ <img src="https://skillicons.dev/icons?i=super,java,hibernate,regex,mysql,postman,spring,flask,mysql,mongodb,prisma"/> 
+ <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,ai,firebase"/>  
+ <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter"/>
+ 
+ 
+ 
 
 </div>
 
