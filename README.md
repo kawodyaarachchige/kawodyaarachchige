@@ -33,6 +33,9 @@ introduce()
   <img src="https://img.shields.io/badge/-Open%20to%20Collaborations-green?style=for-the-badge&logo=Handshake&animation=shake" alt="Open to Collaborations"/>
   <img src="https://img.shields.io/badge/-Fanatic%20Designer-ff69b4?style=for-the-badge&logo=Code&animation=slide" alt="Frontend Fanatic"/>
   <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=for-the-badge&logo=Book&animation=flash" alt="Always Learning"/>
+ <a href="https://tk-portfolio-steel.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio%20TK-purple?style=for-the-badge&logo=Book&logoColor=white&animation=flash" alt="portfolio" />
+</a>
 </p>
 
 <p align="center">
