@@ -10,8 +10,6 @@
     I'm a software engineering student passionate about creating innovative solutions and exploring technology.
 </p>
 
-## 🍎 My Profile in Swift
-
 ```swift
 
 class Person {
