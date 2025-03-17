@@ -13,21 +13,34 @@
 ## 🍎 My Profile in Swift
 
 ```swift
-// Define personal traits as variables
-let name = "Kawodya Arachchige"
-let role = "Software Developer & Designer"
-let skills = ["Problem Solving", "UI/UX Design", "Creative Thinking", "Coding"]
-let strengths = ["Attention to Detail", "Innovative Ideas", "Collaborative Team Player"]
 
-// Function to introduce myself
-func introduce() {
-    print("Hi, I'm \(name), a \(role).")
-    print("My core skills include: \(skills.joined(separator: ", ")).")
-    print("My strengths: \(strengths.joined(separator: ", ")).")
+class Person {
+    let name: String
+    let role: String
+    let skills: [String]
+    let strengths: [String]
+    
+    init(name: String, role: String, skills: [String], strengths: [String]) {
+        self.name = name
+        self.role = role
+        self.skills = skills
+        self.strengths = strengths
+    }
+    
+    func introduce() {
+        print("Hi, I'm \(name), a \(role).")
+        print("My core skills include: \(skills.joined(separator: ", ")).")
+        print("My strengths: \(strengths.joined(separator: ", ")).")
+    }
 }
+let person = Person(
+    name: "Kawodya Arachchige",
+    role: "Software Developer & Designer",
+    skills: ["Problem Solving", "UI/UX Design", "Creative Thinking", "Coding"],
+    strengths: ["Attention to Detail", "Innovative Ideas", "Collaborative Team Player"]
+)
+person.introduce()
 
-// Output my introduction
-introduce()
 ```
 <p align="center">
   <img src="https://img.shields.io/badge/-Open%20to%20Collaborations-green?style=for-the-badge&logo=Handshake&animation=shake" alt="Open to Collaborations"/>
